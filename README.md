@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on final exam.
 
-- 🌱 I’m currently learning cyber-security.
+- 🌱 I’m a cyber-security student.
 
-- ⚡ Have a good day!
+- ⚡ I'm learning penetration testing.
