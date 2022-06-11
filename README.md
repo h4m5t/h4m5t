@@ -8,3 +8,4 @@
 - 🌱 I’m a cyber-security student.
 
 - ⚡ I'm learning penetration testing.
+Let life be beautiful like summer flowers And Death like autumn leaves.
